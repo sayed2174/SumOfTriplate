@@ -1,2 +1,2 @@
 # SumOfTriplate
-It is an program which is asked by associate in it foundation using JAVA by Infosys spring board
+It is an program which is asked by associate in IT Foundation using JAVA by Infosys springboard
